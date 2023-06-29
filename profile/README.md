@@ -16,10 +16,10 @@ our Protégete program. Protégete—which means “protect yourself” in Spani
 and engagement on environmental issues.
 [You can learn more about our mission by clicking here.](https://conservationco.org/our-mission/)
 
-## Learn more about our technology in our work
+## Learn more how we use technology in our work
 
 __[Have a look at our technology blog, tech.conservationco.org](https://tech.conservationco.org)__ to learn more about
-how we solve problems within the organization using software engineering and technology!
+how we solve problems within the organization using software development and technology!
 
 ## Work with us!
 
